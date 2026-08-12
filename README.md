@@ -14,5 +14,5 @@ c. RAM - Stores information temporarily
 d. Heat Sink - cools the CPU to optimize performance
 e. Motherboard - a place where all components placed on.
 
-![my process flowchart] (C:\Users\nthabiseng\slabs_homework_day1\FIRST DIAGRAM.png)
+![my process flowchart] C:\Users\nthabiseng\slabs_homework_day1\FIRST DIAGRAM.png
 
